@@ -1,0 +1,87 @@
+ [
+    {
+        "name": "PEPER BARBEQUE CHICKEN",
+        "varients": ["small", "medium", "large"],
+        "prices": [
+            {
+                "small": 200,
+                "medium": 350,
+                "large": 450
+            },
+        ],
+        "category": "non-veg",
+        "image": "https://www.dominos.co.in/files/items/Pepper_Barbeque.jpg",
+        "discription": "ENJOY THE BEST PEPER BARBEQUE CHICKEN PIZZA EVER",
+    },
+    {
+        "name": "Non Veg Supereme",
+        "varients": ["small", "medium", "large"],
+        "prices": [
+            {
+                "small": 200,
+                "medium": 350,
+                "large": 450
+            },
+        ],
+        "category": "non-veg",
+        "image": "https://www.dominos.co.in/files/items/Non-Veg_Supreme.jpg",
+        "discription": "Supereme Fully loaded Pizza",        
+    },
+    {
+        "name": "Cheese n Corn",
+        "varients": ["small", "medium", "large"],
+        "prices": [
+            {
+                "small": 200,
+                "medium": 350,
+                "large": 450
+            },
+        ],
+        "category": "veg",
+        "image": "https://www.dominos.co.in/files/items/Corn_&_Cheese.jpg",
+        "discription": "bhai bhai",
+    },
+    {
+        "name": "MEXICAN GREEN WAVE",
+        "varients": ["small", "medium", "large"],
+        "prices": [
+            {
+                "small": 200,
+                "medium": 350,
+                "large": 450
+            },
+        ],
+        "category": "veg",
+        "image": "https://www.dominos.co.in/files/items/Mexican_Green_Wave.jpg",
+        "discription": "A pizza loaded with crunchy onions, crisp capsicum, juicy tomatoes and jalapeno with a liberal sprinkling of exotic Mexican herbs",
+    },
+    {
+        "name": "CHICKEN DOMINATOR",
+        "varients": ["small", "medium", "large"],
+        "prices": [
+            {
+                "small": 200,
+                "medium": 350,
+                "large": 450
+            },
+        ],
+        "category": "non-veg",
+        "image": "https://www.dominos.co.in/files/items/Dominator.jpg",
+        "discription": "Treat your taste buds with Double Pepper Barbecue Chicken, Peri-Peri Chicken, Chicken Tikka & Grilled Chicken Rashers",
+    },
+        {
+        "name": "VEG LOADED",
+        "varients": ["small", "medium", "large"],
+        "prices": [
+            {
+                "small": 200,
+                "medium": 350,
+                "large": 450
+            },
+        ],
+        "category": "veg",
+        "image": "https://www.dominos.co.in/files/items/PrimeLoadedL.jpg",
+        "discription": "Tomato | Grilled Mushroom |Jalapeno |Golden Corn | Beans in a fresh pan crust",
+    }
+
+]
